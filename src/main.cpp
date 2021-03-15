@@ -9,8 +9,8 @@
 
 #define LED_BUILTIN 33
 
-const char* ssid = "BoiteVivante";
-const char* password = "82F7625EEC6894868EA329F8E1";
+const char* ssid = "xxxx";
+const char* password = "xxxx";
 
 OV7725aiThinker cam;
 
